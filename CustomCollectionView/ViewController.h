@@ -11,5 +11,7 @@
 @interface ViewController : UIViewController
 
 
+- (IBAction)buttonActionGoToCollectionView:(id)sender;
+
 @end
 
